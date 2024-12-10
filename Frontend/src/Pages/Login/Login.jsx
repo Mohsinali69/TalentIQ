@@ -127,7 +127,7 @@ const Login = () => {
               <div className='text-center text-sm mt-5'>
                 <span>
                   All Rights Reserved © 2024{' '}
-                  <span className='text-blue-500'>GM Shimon</span>
+                  <span className='text-blue-500'>Mohsin Ali</span>
                 </span>
               </div>
             </div>
